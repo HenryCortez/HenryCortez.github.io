@@ -1,9 +1,37 @@
 # Mi portafolio personal.
+![image](https://github.com/HenryCortez/HenryCortez.github.io/assets/100394133/ad94c055-2c33-46cb-b330-e98f8fcbef7d)
+- [Sobre Mí](#about)
+- [Educacion](#education)
+- [Experiencia](#experiencia)
+- [Idiomas](#idiomas)
+- [Cursos](#cursos)
+- [Habilidades](#skills)
+  
 Lenguajes usados
 - HTML
 - CSS
 
-![image](https://github.com/HenryCortez/HenryCortez.github.io/assets/100394133/ad94c055-2c33-46cb-b330-e98f8fcbef7d)
+# Bibliotecas y recursos
+- Tailwind: Tailwind CSS es un framework de estilos utilizable directamente en tu código HTML. A diferencia de otros frameworks que proporcionan componentes predefinidos, Tailwind se centra en clases utilitarias que aplicas directamente a tus elementos HTML para estilizarlos.
+- Bootstrap: Bootstrap es un marco de diseño CSS que facilita el diseño y la creación de páginas web responsivas.
+
+## Contenidos:
+- Archivo index.html
+- Archivo estilos.css
+- Carpeta con imagenes estáticas
+
+## Guía de despliegue
+1. Clonar el repositorio:
+   ```bash
+   git clone https://github.com/HenryCortez/HenryCortez.github.io.git
+   
+2. Ejecución de la página.
+- Se puede ejecutar la página simplemente abriendo el archivo index.html
+
+3. Despliegue.
+- Subir tu código a GitHub
+
+
 
 Para la creacion del portafolio, se utilizo dos hojas de estilos.
 1. Se agrega la hoja de estilos de BootsTrap, utilizado en la mayoria del main.
